@@ -90,7 +90,3 @@ MIT License
 - MACE architecture from [original paper]
 - GSoC 2026 mentorship
 
-## Contact
-
-[Your Name] - [Your Email]
-Project Link: https://github.com/YOUR_USERNAME/mace-deepchem
